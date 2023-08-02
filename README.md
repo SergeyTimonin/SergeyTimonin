@@ -27,7 +27,7 @@ SQL (Oracle/Greenplum), Knime, Python и BI-системы (есть опыт: T
 
 
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S.jpeg" alt="Лого компании" width="600" height="400"> <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WGWLA8LKSQDA/CERTIFICATE_LANDING_PAGE~WGWLA8LKSQDA.jpeg" alt="Лого компании" width="600" height="400">
-https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2
+
 
 
 
