@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Контакты
+### Контакты
 
 📧 Email: your.email@example.com
 💼 LinkedIn: [Ваш LinkedIn профиль](ссылка)
