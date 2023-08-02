@@ -2,7 +2,7 @@
 
 ### Контакты
 
-📞 Телеграм: [https://t.me/Serezha_Timonin](ссылка)
+📞 Телеграм: [@SerezhaTimonin](https://t.me/Serezha_Timonin)
 📧 Email: sergey.timonin@mail.ru
 💼 LinkedIn: [Ваш LinkedIn профиль](ссылка)
 
