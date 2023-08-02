@@ -17,12 +17,15 @@ SQL (Oracle/Greenplum), Knime, Python и BI-системы (есть опыт: T
 
 ##№ Сертификации и Обучение
 
-| Название курса                  | Ссылка на сертификат                                   |
-|---------------------------------|--------------------------------------------------------|
-| Applied Data Science with Python | [Сертификат](https://www.coursera.org/account/accomplishments/specialization/QB2HDPBKMQXG)                   |
-| Введение в машинное обучение    | [Сертификат](ссылка_на_сертификат_2)                   |
-| Основы SQL                      | [Сертификат](ссылка_на_сертификат_3)                   |
-| ...                             | ...                                                    |
+| Название курса                  | Ссылка на сертификат                                   | Платформа|
+|---------------------------------|--------------------------------------------------------|----|
+| Аналитик данных                  | Ссылка на сертификат                                   |  |
+| Название курса                  | Ссылка на сертификат                                   |  |
+| Data Science Professional Certificate (V2)                      | [Сертификат](https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2)|  |
+| Applied Data Science with Python | [Сертификат](https://www.coursera.org/account/accomplishments/specialization/QB2HDPBKMQXG)|  |
+| Applied Machine Learning in Python    | [Сертификат](https://coursera.org/share/8fd64ae06cd6b10c974ef7de3149ecd0)|  |
+| Data Science Professional Certificate (V2)                      | [Сертификат](https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2)|  |
+
 
 
 ### Контакты:
