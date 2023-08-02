@@ -27,3 +27,4 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 
 💼 LinkedIn: [Sergey-timoninn](https://www.linkedin.com/in/sergey-timonin/)
 
+![](https://camo.githubusercontent.com/922afe93aa76083f12fbdc963df455549b7c58d6e323ea8dd146ebd378e09957/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966)
