@@ -19,12 +19,12 @@ SQL (Oracle/Greenplum), Knime, Python и BI-системы (есть опыт: T
 
 | Название курса                  | Ссылка на сертификат                                   | Платформа|
 |---------------------------------|--------------------------------------------------------|----|
-| Аналитик данных                  | Ссылка на сертификат                                   |  |
-| Название курса                  | Ссылка на сертификат                                   |  |
-| Data Science Professional Certificate (V2)                      | [Сертификат](https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2)|  |
-| Applied Data Science with Python | [Сертификат](https://www.coursera.org/account/accomplishments/specialization/QB2HDPBKMQXG)|  |
-| Applied Machine Learning in Python    | [Сертификат](https://coursera.org/share/8fd64ae06cd6b10c974ef7de3149ecd0)|  |
-| Data Science Professional Certificate (V2)                      | [Сертификат](https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2)|  |
+| Аналитик данных                  | Ссылка на сертификат                                   | Курсы Карпова |
+| Название курса                  | [Ссылка на сертификат](https://stepik.org/cert/2048889)      | Stepik |
+| Data Science Professional Certificate (V2)                      | [Сертификат](https://coursera.org/share/2f68ad6c6565414db4ac3088d5fddca2)| Coursera / IBM |
+| Applied Data Science with Python | [Сертификат](https://www.coursera.org/account/accomplishments/specialization/QB2HDPBKMQXG)| Coursera / University of Michigan |
+| Applied Machine Learning in Python    | [Сертификат](https://coursera.org/share/8fd64ae06cd6b10c974ef7de3149ecd0)| Coursera / University of Michigan |
+
 
 
 
