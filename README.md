@@ -21,7 +21,7 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 
 ### Контакты:
 
-📱 Телеграм: [@SerezhaTimonin](https://t.me/Serezha_Timonin)
+📱 Телеграм: [@Serezha_Timonin](https://t.me/Serezha_Timonin)
 
 📧 Email: sergey.timonin@mail.ru
 
