@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 ### Контакты
-
+\n
 📞 Телеграм: [@SerezhaTimonin](https://t.me/Serezha_Timonin)
+\n
 📧 Email: sergey.timonin@mail.ru
-💼 LinkedIn: [Ваш LinkedIn профиль](ссылка)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sergey-timonin/)
 
 
 <!--
