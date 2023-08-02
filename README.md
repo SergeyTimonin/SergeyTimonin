@@ -2,9 +2,9 @@
 
 ### Контакты
 
-📧 Email: your.email@example.com
+📞 Телеграм: @SerezhaTimonin
+📧 Email: sergey.timonin@mail.ru
 💼 LinkedIn: [Ваш LinkedIn профиль](ссылка)
-🐦 Twitter: [@ваш_твиттер](ссылка)
 
 
 <!--
