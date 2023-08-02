@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Контакты
+
+📧 Email: your.email@example.com
+💼 LinkedIn: [Ваш LinkedIn профиль](ссылка)
+🐦 Twitter: [@ваш_твиттер](ссылка)
+
+
 <!--
 **SergeyTimonin/SergeyTimonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
