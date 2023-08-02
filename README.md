@@ -25,5 +25,5 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 
 📧 Email: sergey.timonin@mail.ru
 
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sergey-timonin/)
+💼 LinkedIn: [Sergey-timoninn](https://www.linkedin.com/in/sergey-timonin/)
 
