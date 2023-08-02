@@ -25,7 +25,7 @@ SQL (Oracle/Greenplum), Knime, Python и BI-системы (есть опыт: T
 | Applied Data Science with Python | [Сертификат](https://www.coursera.org/account/accomplishments/specialization/QB2HDPBKMQXG)| Coursera / University of Michigan |
 | Applied Machine Learning in Python    | [Сертификат](https://coursera.org/share/8fd64ae06cd6b10c974ef7de3149ecd0)| Coursera / University of Michigan |
 
-![Лого компании](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S.jpeg){:height="150px" width="100px"}
+![Лого компании](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S/CERTIFICATE_LANDING_PAGE~WLZKPBSVRM8S.jpeg){:height="100px" width="50px"}
 
 
 
