@@ -24,8 +24,10 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 
 | Название проекта                  | Ссылка на папку|
 |---------------------------------|----|
+| Дашборд в Tableau                 |  [Дашборд по вакансиям]() |
 | Карпов.Курсы                   |  [Общий репозиторий](https://github.com/SergeyTimonin/Karpov.Courses)  |
-| Knime                 |  [Сертификат](https://github.com/SergeyTimonin/KNIME) |
+| Карпов.Курсы / Финальный проект (SQL/Python)   |  [ознакомиться с проектом](https://github.com/SergeyTimonin/Karpov.Courses/tree/main/Финальный%20проект)  |
+| Knime                 |  [ЗАпуск по рассписанию, АВС-анализ и пр.](https://github.com/SergeyTimonin/KNIME) |
 
 ### Контакты:
 
