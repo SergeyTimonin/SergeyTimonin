@@ -28,7 +28,9 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 |---------------------------------|----|
 | Дашборд в Tableau                 |  [Дашборд по вакансиям]() |
 | Карпов.Курсы                   |  [Общий репозиторий](https://github.com/SergeyTimonin/Karpov.Courses)  |
-| --   Карпов.Курсы / Финальный проект (SQL/Python)   |  [Ознакомиться с ipynb](https://github.com/SergeyTimonin/Karpov.Courses/blob/main/Финальный%20проект/final%20project_var_2.ipynb)  |
+| ->   Финальный проект (SQL/Python)   |  [Ознакомиться с ipynb](https://github.com/SergeyTimonin/Karpov.Courses/blob/main/Финальный%20проект/final%20project_var_2.ipynb)  |
+| ->   Промежуточный проект (Python)   |  [Ознакомиться с ipynb](https://github.com/SergeyTimonin/Karpov.Courses/blob/main/Промежуточный%20проект/КК%20промежуточная%20работа%20работа.ipynb)  |
+| ->   Занятия по статистике (8 модуль: Python)   |  [Репозиторий](https://github.com/SergeyTimonin/Karpov.Courses/tree/main/Статистика)  |
 | Knime                 |  [Запуск по расписанию, АВС-анализ и пр.](https://github.com/SergeyTimonin/KNIME) |
 
 ## 📇 Контакты:
