@@ -19,6 +19,13 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 | Applied Machine Learning in Python    | [Сертификат](https://coursera.org/share/8fd64ae06cd6b10c974ef7de3149ecd0)| Coursera / University of Michigan |
 
 
+## Проекты
+
+| Название проекта                  | Ссылка на папку|
+|---------------------------------|----|
+| Карпов.Курсы                   |  [Общий репозиторий](https://github.com/SergeyTimonin/Karpov.Courses)  |
+| Knime                 |  [Сертификат](https://github.com/SergeyTimonin/KNIME) |
+
 ### Контакты:
 
 📱 Телеграм: [@Serezha_Timonin](https://t.me/Serezha_Timonin)
