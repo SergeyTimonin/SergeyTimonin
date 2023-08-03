@@ -31,7 +31,7 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 | Карпов.Курсы / Финальный проект (SQL/Python)   |  [Ознакомиться с ipynb](https://github.com/SergeyTimonin/Karpov.Courses/blob/main/Финальный%20проект/final%20project_var_2.ipynb)  |
 | Knime                 |  [Запуск по расписанию, АВС-анализ и пр.](https://github.com/SergeyTimonin/KNIME) |
 
-## 🤳 Контакты:
+## 🤳 ☎️ 📇 Контакты:
 
 Telegram: [@Serezha_Timonin](https://t.me/Serezha_Timonin)
 
