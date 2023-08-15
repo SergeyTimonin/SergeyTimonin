@@ -32,7 +32,7 @@ Knime, Python, SQL (Oracle/Greenplum: подзапросы, CTE, оконные 
 | ->   Занятия по статистике (8 модуль: Python)   |  [Репозиторий](https://github.com/SergeyTimonin/Karpov.Courses/tree/main/Статистика)  |
 | Дашборд в Tableau                 |  [Дашборд по вакансиям]() |
 | Knime                 |  [Запуск по расписанию, АВС-анализ и пр.](https://github.com/SergeyTimonin/KNIME) |
-| Тестовые задания | [Ссылка на репозиторий](https://github.com/SergeyTimonin/mini_projects)|
+| Тестовые задания | [Репозиторий](https://github.com/SergeyTimonin/mini_projects)|
 
 ## 📇 Контакты:
 
